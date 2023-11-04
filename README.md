@@ -54,11 +54,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=samad-scs.samad-scs&"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/samad-scs/samad-scs/output/snake.svg" alt="Snake animation" />
-
-###
