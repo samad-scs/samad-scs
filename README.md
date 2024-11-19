@@ -4,7 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Full-Stack Web Developer, from India 🇮🇳
 -----------------------------------------------
 
-A passionate Full-Stack Web Developer with expertise in building scalable and efficient applications. 🔧 Tech Stack: Frontend: Next.js, React.js Backend: Node.js, Express.js Databases: MongoDB, PostgreSQL, MSSQL I enjoy solving complex problems, optimizing performance, and continuously learning new technologies. Let's build something amazing together! 🚀
+A passionate Full-Stack Web Developer with expertise in building scalable and efficient applications. 
+
+🔧 Tech Stack: 
+
+Frontend: Next.js, React.js 
+
+Backend: Node.js, Express.js 
+
+Databases: MongoDB, PostgreSQL, MSSQL
+
+I enjoy solving complex problems, optimizing performance, and continuously learning new technologies. Let's build something amazing together! 🚀
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [samad-saiyed.com](http://samad-saiyed.vercel.app/)
