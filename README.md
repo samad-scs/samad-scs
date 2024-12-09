@@ -50,3 +50,7 @@ src="https://img.shields.io/github/followers/samad-scs?logo=github&style=for-the
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/samadsaiyed"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
+### DEV CARD
+
+<a href="https://app.daily.dev/samadsaiyed"><img src="https://api.daily.dev/devcards/v2/xIyBaxuVSLClnRCAmDSIi.png?r=xs7&type=default" width="356" alt="Samad Saiyed's Dev Card"/></a>
