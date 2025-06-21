@@ -19,7 +19,7 @@ I enjoy solving complex problems, optimizing performance, and continuously learn
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [samad-saiyed.com](http://samad-saiyed.vercel.app/)
 * ✉️  You can contact me at [samad.saiyed.ss@gmail.com](mailto:samad.saiyed.ss@gmail.com)
-* 🧠  I'm learning React 19 new features
+* 🧠  I'm currently learning Redis, BullMQ and Vector Databases
 * 🤝  I'm open to collaborating on NextJS, ReactJS, NodeJS, ExpressJS Projects
 
 <a href="https://www.github.com/samad-scs" target="_blank" rel="noreferrer"><img
